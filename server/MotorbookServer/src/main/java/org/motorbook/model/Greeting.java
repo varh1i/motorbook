@@ -1,4 +1,4 @@
-package org.motorbook.main;
+package org.motorbook.model;
 
 public class Greeting {
 
