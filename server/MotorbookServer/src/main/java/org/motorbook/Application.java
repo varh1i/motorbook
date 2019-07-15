@@ -1,4 +1,4 @@
-package org.motorbook.main;
+package org.motorbook;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
